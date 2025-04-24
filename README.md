@@ -21,5 +21,5 @@ This is a simple Django project that implements a user registration form using D
 
 1. **Clone the repo**
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/srijagangadhari/Django.git
 cd your-repo-name
